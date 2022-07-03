@@ -122,7 +122,7 @@ contract Conditions {
     /*
         Name of the function is set.
         It takes in a uint and sets the state variable num.
-        It is a declared as a public function meaning
+        It is declared as a public function meaning
         it can be called from within the contract and also externally.
     */
     function set(uint _num) public {
